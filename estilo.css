@@ -1,0 +1,211 @@
+body {
+    background-color: white;
+}
+#e-1 {
+    font-size: 2em;
+    background: seashell;
+    color: lightgray;
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+    width: 1000px;
+    box-shadow: 1px 2px 4px 0 grey;
+    text-shadow: 2px 3px 0 azure;
+}
+
+.titulos2{
+    background-color: snow;
+    color: dimgray;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    margin: 25px;
+    font-family: Verdana, sans-serif;
+    box-shadow: 1px 1px 2px 0 silver;
+    text-shadow: 1.5px 1.5px  0 whitesmoke;
+    justify-content: center;
+
+}
+
+.parrafo{
+     font-family: Georgia, serif;
+     color: black;
+     margin: 30px;
+     letter-spacing: 0.2px;
+     font-size: 14px;
+     font-weight: lighter;
+     background-color: honeydew;
+     border-radius: 10px;
+     outline: 1px solid silver;
+     box-shadow: 1px 1px 3px 0 grey;
+     padding: 10px;
+
+}
+
+
+
+
+
+
+
+
+.contenedor-flex{
+    display: flex;
+    
+}
+.flex-item{
+    background: lavender;
+    margin: 10px;
+    width: 500px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 1px 2px 3px 0 grey;
+    letter-spacing: 0.3px;
+    font-weight: lighter;
+
+}
+.flex-tittles{
+    color: dimgray;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 9px;
+    box-shadow: 1px 1px 2px 0;
+    letter-spacing: 0.5px;
+    width: 150px;
+    outline: 0.5px solid silver; 
+
+}
+.flex-item img{
+    border-radius: 10px;
+    margin: 15px;
+    padding: 5px;
+}
+.img img {
+    width: 120px;
+    height: 150px;
+    margin: 15px;
+    outline: solid 1px black;
+    border-radius: 20px;
+    box-shadow: 1px 1px 2px 0;
+    bottom: 100px;
+    top: 0;
+    float: 0;
+    padding: 10px;
+
+
+
+}
+.flex-img2 img {
+    border-radius: 20px;
+    margin: 15px;
+    padding: 5px;
+    align-self: center;
+}
+.flex-img3 {
+
+display: flex;
+background-color: aliceblue;
+justify-content: space-between;
+margin: 10px;
+padding: 5px;
+border-radius: 10px;
+
+
+}
+.flex-io  img{
+    margin: 20px ;
+    width: 100px ;
+    height: 100px;
+    border-radius: 20px;
+    border: 1px black;
+    
+}
+.titulos{
+    background-color: azure;
+    color: darkgray;
+    box-shadow: 1px 1px 3px 0 silver;
+    width: 800px;
+    text-align: center;
+    padding: 5px;
+    margin: 20px;
+    background-position: center;
+    font-size: 2em;
+    justify-content: center;
+
+}
+
+
+
+.contenedor-flex2{
+
+justify-content: space-between;
+background-color: azure;
+margin: 20px;
+border-radius: 10px;
+
+}
+
+.liss{
+    color: dimgray;
+    text-decoration: unset;
+    font-weight: 900;
+    margin: 10px;
+
+}
+
+
+
+    
+
+
+
+.flex-imgs{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 5px;   
+}
+.flex-iso  {
+border-radius: 20px;
+
+padding: 50px;
+}
+
+.flex-footer{
+    display: flex;
+    
+}
+.flex-as video{
+    background-color: darkred;
+    width: 300px;
+    height: 20px;
+}
+.titulos4{
+    background-color: azure;
+    color: black;
+    width: 200px;
+    height: 100px;
+    font-size: 2em;
+    border-radius: 20px;
+    border: 1px snow;
+    box-shadow: 1px 2px 2px 0;
+    padding: 10px;
+    letter-spacing: 0.4px;
+}
+.videos1{
+    background-color: honeydew;
+    width: 350px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.final{
+    background-color: lavenderblush;
+    color: olive;
+}
+.foo{
+    font-weight: lighter;
+    font-size: 10px;
+}
