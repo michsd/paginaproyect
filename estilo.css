@@ -1,17 +1,17 @@
 body {
-    background-color: ivory;
+    background-color: honeydew;
 }
 #e-1 {
     font-size: 2em;
     background: seashell;
-    color: lightgray;
+    color: darkgray;
     border-radius: 20px;
     text-align: center;
     margin: auto;
     padding: 5px;
     width: 1000px;
     box-shadow: 1px 2px 4px 0 grey;
-    text-shadow: 2px 3px 0 azure;
+    text-shadow: 2px 3px 0 gainsboro;
 }
 
 .titulos2{
@@ -125,7 +125,7 @@ border-radius: 10px;
 .titulos{
     background-color: azure;
     color: darkgray;
-    box-shadow: 1px 1px 3px 0 silver;
+    box-shadow: 3px 3px 10px 0 silver;
     width: 800px;
     text-align: center;
     padding: 5px;
@@ -133,6 +133,7 @@ border-radius: 10px;
     background-position: center;
     font-size: 2em;
     justify-content: center;
+    text-shadow: 2px 0.5px 0 white;
 
 }
 
